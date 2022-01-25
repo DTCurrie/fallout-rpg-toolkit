@@ -1,0 +1,11 @@
+coverage
+src
+tsconfig.tsbuildinfo
+.env
+.*
+*.log
+*.tgz
+tsconfig.json
+
+# Include the distributables
+!./dist/**/*

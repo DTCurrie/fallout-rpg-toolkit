@@ -1,0 +1,130 @@
+// DO NOT ADD COMMENTS IN THIS FILE.  They will be lost when the Rush tool resaves it.
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/rush/v5/approved-packages.schema.json",
+  "packages": [
+    {
+      "name": "@dice-roller/rpg-dice-roller",
+      "allowedCategories": [ "tools" ]
+    },
+    {
+      "name": "@fallout-rpg-toolkit/dice-roller",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "@fallout-rpg-toolkit/rules",
+      "allowedCategories": [ "production", "tools" ]
+    },
+    {
+      "name": "@fallout-rpg-toolkit/utils",
+      "allowedCategories": [ "production", "tools" ]
+    },
+    {
+      "name": "@typescript-eslint/eslint-plugin",
+      "allowedCategories": [ "production", "tools" ]
+    },
+    {
+      "name": "@typescript-eslint/parser",
+      "allowedCategories": [ "production", "tools" ]
+    },
+    {
+      "name": "bootstrap",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "capital-case",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "change-case",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "discord.js",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "discord.js-commando",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "discord.js-menu",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "dotenv",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "eslint",
+      "allowedCategories": [ "production", "tools" ]
+    },
+    {
+      "name": "eslint-config-next",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "eslint-config-prettier",
+      "allowedCategories": [ "production", "tools" ]
+    },
+    {
+      "name": "eslint-plugin-prettier",
+      "allowedCategories": [ "production", "tools" ]
+    },
+    {
+      "name": "jquery",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "nanoid",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "next",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "npm-run-all",
+      "allowedCategories": [ "production", "tools" ]
+    },
+    {
+      "name": "npm-watch",
+      "allowedCategories": [ "production", "tools" ]
+    },
+    {
+      "name": "prettier",
+      "allowedCategories": [ "production", "tools" ]
+    },
+    {
+      "name": "prettier-eslint",
+      "allowedCategories": [ "production", "tools" ]
+    },
+    {
+      "name": "react",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "react-dom",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "react-use-localstorage",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "rimraf",
+      "allowedCategories": [ "production", "tools" ]
+    },
+    {
+      "name": "rpg-dice-roller",
+      "allowedCategories": [ "production", "tools" ]
+    },
+    {
+      "name": "sass",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "typescript",
+      "allowedCategories": [ "production", "tools" ]
+    }
+  ]
+}
