@@ -13,6 +13,7 @@ export const client = new CommandoClient({
   commandPrefix,
   owner: process.env.OWNER_ID,
   invite: process.env.INVITE_LINK,
+  intents: 
 });
 
 client.registry
